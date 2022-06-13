@@ -109,16 +109,6 @@ http://cms-eu-01.casap2p.online:8080/luizinho/102030/3695
 http://cms-eu-01.casap2p.online:8080/luizinho/102030/57741
 #EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV HD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="DOCUMENTARIO",CHEF TV HD
 http://cms-eu-01.casap2p.online:8080/luizinho/102030/57742
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 01" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",CINE PIPOCA 01
-http://cms-eu-01.casap2p.online:8080/luizinho/102030/57743
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 3" tvg-logo="floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 3
-http://cms-eu-01.casap2p.online:8080/luizinho/102030/19384
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 4" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 4
-http://cms-eu-01.casap2p.online:8080/luizinho/102030/23760
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Cine Pipoca 5" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 5
-http://cms-eu-01.casap2p.online:8080/luizinho/102030/19386
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 6" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 6
-http://cms-eu-01.casap2p.online:8080/luizinho/102030/19387
 #EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="CINEMAX 4K" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX 4K
 http://cms-eu-01.casap2p.online:8080/luizinho/102030/3320
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD
