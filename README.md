@@ -1,34 +1,17 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/149.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CAVERNA DO DRAGÃO
-http://51.89.98.62:8080/mikael/mikael/28136
-#EXTINF:-1 tvg-id="" tvg-name="89 FM A Rádio Rock" tvg-logo="https://cdn-radiotime-logos.tunein.com/s85089q.png" group-title="Canais I RÁDIOS FM",89 FM A Rádio Rock
-http://51.89.98.62:8080/mikael/mikael/23663
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1992)" tvg-logo="http://sbocs.no-ip.net/logosnovos/Infantil24h/136.png" group-title="Canais | INFANTIL 24 HORAS",A Pequena Sereia (1992)
-http://51.89.98.62:8080/mikael/mikael/49724
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="http://sbocs.no-ip.net/logosnovos/FilmeseSeries/220.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD
 http://51.89.98.62:8080/mikael/mikael/20253
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/FilmeseSeries/220.png" group-title="Canais | FILMES E SÉRIES ",A&E HD
 http://51.89.98.62:8080/mikael/mikael/236
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="http://sbocs.no-ip.net/logosnovos/FilmeseSeries/220.png" group-title="Canais | FILMES E SÉRIES ",A&E SD
-http://51.89.98.62:8080/mikael/mikael/235
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais HD
 http://51.89.98.62:8080/mikael/mikael/48331
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais SD
-http://51.89.98.62:8080/mikael/mikael/48332
 #EXTINF:-1 tvg-id="" tvg-name="Aladdin (1994)" tvg-logo="http://sbocs.no-ip.net/logosnovos/Infantil24h/138.png" group-title="Canais | INFANTIL 24 HORAS",Aladdin (1994)
 http://51.89.98.62:8080/mikael/mikael/42939
 #EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/H265/26.png" group-title="Canais | FILMES",AMC HD
 http://51.89.98.62:8080/mikael/mikael/512
-#EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC SD" tvg-logo="http://sbocs.no-ip.net/logosnovos/H265/26.png" group-title="Canais | FILMES",AMC SD
-http://51.89.98.62:8080/mikael/mikael/233
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet FHD
 http://51.89.98.62:8080/mikael/mikael/20257
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet HD
 http://51.89.98.62:8080/mikael/mikael/232
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet SD
-http://51.89.98.62:8080/mikael/mikael/231
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (2000)" tvg-logo="http://sbocs.no-ip.net/logosnovos/Infantil24h/139.png" group-title="Canais | INFANTIL 24 HORAS",As Aventuras de Jackie Chan (2000)
-http://51.89.98.62:8080/mikael/mikael/49715
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://sbocs.no-ip.net/logosnovos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD
 http://51.89.98.62:8080/mikael/mikael/20234
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://sbocs.no-ip.net/logosnovos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN HD
@@ -71,8 +54,6 @@ http://51.89.98.62:8080/mikael/mikael/49128
 http://51.89.98.62:8080/mikael/mikael/49115
 #EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-name="Boa Vontade TV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/boavontade.png" group-title="Canais I CORTESIA",Boa Vontade TV SD
 http://51.89.98.62:8080/mikael/mikael/49116
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24H" tvg-logo="http://sbocs.no-ip.net/logosnovos/Infantil24h/147.png" group-title="Canais | INFANTIL 24 HORAS",Bob Esponja 24H
-http://51.89.98.62:8080/mikael/mikael/40793
 #EXTINF:-1 tvg-id="BoomerangBrazil.br" tvg-name="Boomerang HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang HD
 http://51.89.98.62:8080/mikael/mikael/217
 #EXTINF:-1 tvg-id="BoomerangBrazil.br" tvg-name="Boomerang SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang SD
@@ -81,10 +62,6 @@ http://51.89.98.62:8080/mikael/mikael/216
 http://51.89.98.62:8080/mikael/mikael/20227
 #EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="http://sbocs.no-ip.net/logo/csi.png" group-title="Canais |  24 HORAS",Canal CSI 24H
 http://51.89.98.62:8080/mikael/mikael/538
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi HD
-http://51.89.98.62:8080/mikael/mikael/20467
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi SD
-http://51.89.98.62:8080/mikael/mikael/49046
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Carro HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro HD
 http://51.89.98.62:8080/mikael/mikael/48327
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Carro SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro SD
